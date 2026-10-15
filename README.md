@@ -2,7 +2,7 @@
 
 A small step-by-step notebook showing how BERT fills in a blank word.
 
-![BERT masked language model](images/bert_mlm.png)
+![BERT masked language model](/bert_mlm.png)
 
 ```
 Input : I sat by the river [MASK] to enjoy the view.
